@@ -46,7 +46,7 @@ Follow these steps to run the project locally:
 git clone [https://github.com/sheikhrehanseo/mustehkam-construction.git](https://github.com/sheikhrehanseo/mustehkam-construction.git)
 cd mustehkam-construction
 
-**2. Install Dependencies**
+### 2. Install Dependencies
 ```bash
 composer install
 npm install
