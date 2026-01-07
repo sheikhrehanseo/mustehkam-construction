@@ -45,3 +45,12 @@ Follow these steps to run the project locally:
 ```bash
 git clone [https://github.com/sheikhrehanseo/mustehkam-construction.git](https://github.com/sheikhrehanseo/mustehkam-construction.git)
 cd mustehkam-construction
+
+**2. Install Dependencies**
+```bash
+composer install
+npm install
+
+**3. Setup Environment**
+```bash
+cp .env.example .env
