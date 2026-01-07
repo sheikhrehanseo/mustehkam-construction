@@ -41,16 +41,12 @@ Built using **Laravel 12** and **FilamentPHP**, this project allows administrato
 ## ⚙️ Installation Guide
 Follow these steps to run the project locally:
 
-**1. Clone the Repository**
+### 1. Clone the Repository
 ```bash
-git clone [https://github.com/sheikhrehanseo/mustehkam-construction.git](https://github.com/sheikhrehanseo/mustehkam-construction.git)
+git clone https://github.com/sheikhrehanseo/mustehkam-construction.git
 cd mustehkam-construction
 
 ### 2. Install Dependencies
 ```bash
 composer install
 npm install
-
-**3. Setup Environment**
-```bash
-cp .env.example .env
